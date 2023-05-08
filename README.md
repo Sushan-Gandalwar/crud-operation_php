@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>PHP CRUD Operation with AJAX</title>
+<!-- 	<title>PHP CRUD Operation with AJAX</title> -->
 </head>
 <body>
 	<header>
