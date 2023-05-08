@@ -1,4 +1,4 @@
-PHP CRUD Operation with AJAX
+<h1>PHP CRUD Operation with AJAX</h1>
 This is a simple PHP application that demonstrates how to perform CRUD operations using AJAX. The application uses PHP to interact with a MySQL database and jQuery to handle AJAX requests.
 
 Installation
