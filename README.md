@@ -13,7 +13,8 @@ Copy code
 <section>
 	<h2>Installation</h2>
 	<ol>
-		<li>Clone the repository: <code>git clone https://github.com/your_username/your_repository.git</code></li>
+		<li>Clone the repository:
+			<code>git clone https://github.com/your_username/your_repository.git</code></li>
 		<li>Navigate to the project directory: <code>cd your_repository</code></li>
 		<li>Create a MySQL database and import the <code>php-crud.sql</code> file.</li>
 		<li>Update the <code>config.php</code> file with your database credentials.</li>
